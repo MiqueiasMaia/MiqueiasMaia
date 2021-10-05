@@ -42,7 +42,7 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/MiqueiasMaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiqueiasMaia&theme=default&show_icons=true" />
 </a>
 
