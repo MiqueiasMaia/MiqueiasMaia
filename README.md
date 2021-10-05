@@ -46,6 +46,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiqueiasMaia&theme=default&show_icons=true" />
 </a>
 
+<div align="center">
+  <a href="#">
+  <img
+       alt="Miqueias Maia's Activity Graph" 
+       src="https://activity-graph.herokuapp.com/graph?username=MiqueiasMaia&custom_title=Miqueias%20Maia%27s%20Contribution%20Graph&bg_color=FFFFFF&color=0047AB&line=0096FF&point=0047AB&hide_border=true&theme=dark&count_private=true" />
+  </a>
+</div>
+
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
