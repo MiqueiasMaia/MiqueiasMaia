@@ -1,15 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=MiqueiasMaia&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;About me</h3>
 
-- 🤔 &nbsp; Não tenho nenhum talento especial, apenas sou apaixonadamente curioso.
-- 🎓 &nbsp; Estudando **Tecnologias SAP**.
-- 💼 &nbsp; Trabalhando como **Analista de Sistemas** na <a href="https://github.com/VAEES">VAEES</a> e **Professor Auxiliar** na ESTÁCIO.
-- 🌱 &nbsp; Entusiasta em **Machine Learning**.
+- 🤔 &nbsp; I have no special talent. I am only passionately curious.
+- 🎓 &nbsp; Studyind **SAP technologies**.
+- 💼 &nbsp; Working as **Systems Analyst** at <a href="https://github.com/VAEES">VAEES</a> and **Auxiliar Professor** at ESTÁCIO.
+- 🌱 &nbsp; **Machine Learning** entusiast.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
+<h3> :rocket: &nbsp;Skills </h3>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -22,7 +20,7 @@
   ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vuejs)
   ![SAP MDK](https://img.shields.io/badge/-SAPMDK-333333?style=flat&logo=SAP-MDK)
 
-**Utilidades**
+**Utilities**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -33,7 +31,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
-**Ferramentas de Desenvolvimento**
+**Development tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -56,7 +54,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Find me: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miqueias-maia-60976164/)](https://www.linkedin.com/in/miqueias-maia-60976164/)
 [![Gmail Badge](https://img.shields.io/badge/-miqueiasmaia7@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miqueiasmaia7@gmail.com)](mailto:miqueiasmaia7@gmail.com)
