@@ -5,9 +5,8 @@
 - 🤔 &nbsp; I have no special talent. I am only passionately curious.
 - 🎓 &nbsp; Studyind **SAP technologies**.
 - 💼 &nbsp; Working as **Systems Analyst** at <a href="https://github.com/VAEES">VAEES</a> and **Auxiliar Professor** at ESTÁCIO.
-- 🌱 &nbsp; **Machine Learning** entusiast.
 
-<h3> :rocket: &nbsp;Skills </h3>
+<!-- <h3> :rocket: &nbsp;Skills </h3>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -38,24 +37,30 @@
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   ![Business Application Studio](https://img.shields.io/badge/-Business%20Application%20Studio-333333?style=flat&logo=business-application-studio)
 
-<br/>
-
-<a href="https://github.com/MiqueiasMaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiqueiasMaia&theme=default&show_icons=true" />
-</a>
+<br/> -->
 
 <div align="center">
+  <a href="https://github.com/MiqueiasMaia">
+ <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MiqueiasMaia&show_icons=true&line_height=27&text_color=664FB5&icon_color=ffffff" alt="Miqueias Maia Github Stats"/>
+  </a>
+
+  <a href="https://github.com/MiqueiasMaia">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueiasMaia&layout=compact&langs_count=10" alt="Miqueias Maia Github Stats"/>
+  </a>
+</div>
+
+<!-- <div align="center">
   <a href="#">
   <img
        alt="Miqueias Maia's Activity Graph" 
        src="https://activity-graph.herokuapp.com/graph?username=MiqueiasMaia&custom_title=Miqueias%20Maia%27s%20Contribution%20Graph&bg_color=FFFFFF&color=0047AB&line=0096FF&point=0047AB&hide_border=true&theme=dark&count_private=true" />
   </a>
-</div>
+</div> -->
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Find me: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miqueias-maia-60976164/)](https://www.linkedin.com/in/miqueias-maia-60976164/)
+
 [![Gmail Badge](https://img.shields.io/badge/-miqueiasmaia7@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miqueiasmaia7@gmail.com)](mailto:miqueiasmaia7@gmail.com)
 [![GitHub Miqueias Maia]( https://img.shields.io/github/followers/MiqueiasMaia?label=follow&style=social)](https://github.com/MiqueiasMaia/MiqueiasMaia)
