@@ -39,26 +39,6 @@
 
 <br/> -->
 
-<div align="center">
-  <a href="https://github.com/MiqueiasMaia">
- <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MiqueiasMaia&show_icons=true&line_height=27&text_color=664FB5&icon_color=ffffff" alt="Miqueias Maia Github Stats"/>
-  </a>
-
-  <a href="https://github.com/MiqueiasMaia">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueiasMaia&layout=compact&langs_count=10" alt="Miqueias Maia Github Stats"/>
-  </a>
-</div>
-
-<!-- <div align="center">
-  <a href="#">
-  <img
-       alt="Miqueias Maia's Activity Graph" 
-       src="https://activity-graph.herokuapp.com/graph?username=MiqueiasMaia&custom_title=Miqueias%20Maia%27s%20Contribution%20Graph&bg_color=FFFFFF&color=0047AB&line=0096FF&point=0047AB&hide_border=true&theme=dark&count_private=true" />
-  </a>
-</div> -->
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Find me: </h3> 
 
 
