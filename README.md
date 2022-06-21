@@ -3,7 +3,7 @@
 <h3> :man: &nbsp;About me</h3>
 
 - 🤔 &nbsp; I have no special talent. I am only passionately curious.
-- 🎓 &nbsp; Working and studyind **SAP technologies**.
+- 🎓 &nbsp; Studyind and working with **SAP technologies**.
 - 💼 &nbsp; Working as **Systems Analyst** at <a href="https://github.com/VAEES">B2RISE</a> and **Auxiliar Professor** at ESTÁCIO.
 
 <!-- <h3> :rocket: &nbsp;Skills </h3>
