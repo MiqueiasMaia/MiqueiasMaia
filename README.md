@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; I have no special talent. I am only passionately curious.
 - 🎓 &nbsp; Working and studyind **SAP technologies**.
-- 💼 &nbsp; Working as **Systems Analyst** at <a href="https://github.com/VAEES">VAEES</a> and **Auxiliar Professor** at ESTÁCIO.
+- 💼 &nbsp; Working as **Systems Analyst** at <a href="https://github.com/VAEES">B2RISE</a> and **Auxiliar Professor** at ESTÁCIO.
 
 <!-- <h3> :rocket: &nbsp;Skills </h3>
 
