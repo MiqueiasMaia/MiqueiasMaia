@@ -4,9 +4,7 @@
 
 - 🤔 &nbsp; I have no special talent. I am only passionately curious.
 - 🎓 &nbsp; Studyind and working with **SAP technologies**.
-- 💼 &nbsp; Working as **SAP MDK, SAPUI5 and SAP CAP Consultant** for Mobsky Technology Consulting and **Auxiliar Professor** at ESTÁCIO University Center.
-- 💼 &nbsp; Already worked for projects in VALE (BR), Suzano (BR), Braskem (BR), MRS (BR), Norte Energia (BR), Arauco (CH), TGS (AR).
-
+- 💼 &nbsp; Working as **SAP MDK, SAPUI5 and SAP CAP Consultant** for Mobsky Technology Consulting and **Auxiliar Professor** at ESTÁCIO University Center. Already worked for projects in FIOCRUZ, VALE, Suzano, Braskem, MRS, Norte Energia, Arauco, TGS, Pan American Energy.
 
 <!-- <h3> :rocket: &nbsp;Skills </h3>
 
