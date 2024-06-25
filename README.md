@@ -3,7 +3,7 @@
 <h3> :man: &nbsp;About me</h3>
 
 - 🤔 &nbsp; I have no special talent. I am only passionately curious.
-- 💼 &nbsp; Working as **Ionic Developer** for Robbyson Platform and **Auxiliar Professor** at ESTÁCIO University Center. I have already worked on projects in FIOCRUZ, VALE, Suzano, Braskem, MRS, Norte Energia, Arauco, TGS, GNL Quintero, Pan American Energy, Ceará Motor, Audi Center Fortaleza, Fazauto.
+- 💼 &nbsp; I am an Ionic Developer working for the Robbyson Platform and a University Professor at Fortaleza University. My professional experience includes working on diverse and impactful projects with notable organizations such as FIOCRUZ, VALE, Suzano, Braskem, MRS, Norte Energia, Arauco, TGS, GNL Quintero, Pan American Energy, Ceará Motor, Audi Center Fortaleza, and Fazauto.
 
 <!-- <h3> :rocket: &nbsp;Skills </h3>
 
