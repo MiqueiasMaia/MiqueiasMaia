@@ -4,6 +4,7 @@
 
 - 🤔 &nbsp; I have no special talent. I am only passionately curious.
 - 💼 &nbsp; I am an Ionic Developer working for the Robbyson Platform and a University Professor at Fortaleza University. My professional experience includes working on diverse and impactful projects with notable organizations such as FIOCRUZ, VALE, Suzano, Braskem, MRS, Norte Energia, Arauco, TGS, GNL Quintero, Pan American Energy, Ceará Motor, Audi Center Fortaleza, and Fazauto.
+- Currently learning React JS.
 
 <!-- <h3> :rocket: &nbsp;Skills </h3>
 
