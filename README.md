@@ -1,5 +1,6 @@
 # Hi there, I'm Miqueias!
 🚀 Software Developer passionate about technology and innovation. I build enterprise applications with **SAP BTP Technologies, such as UI5, CAP, MDK** and also React, Angular, and TypeScript.
+
 💡 With over **5 years of experience**, I have worked with **web and mobile development**, creating scalable and efficient solutions for enterprise environments.
 
 📍 Based in **Fortaleza, Brazil**, but passionate for **United Kingdom and EU** 🇬🇧.
