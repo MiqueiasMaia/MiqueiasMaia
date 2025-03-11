@@ -1,46 +1,22 @@
-![](https://komarev.com/ghpvc/?username=MiqueiasMaia&color=006bed)
+# Hi there, I'm Miqueias!
+🚀 Software Developer passionate about technology and innovation. I build enterprise applications with **SAP BTP Technologies, such as UI5, CAP, MDK** and also React, Angular, and TypeScript.
+💡 With over **5 years of experience**, I have worked with **web and mobile development**, creating scalable and efficient solutions for enterprise environments.
 
-<h3> :man: &nbsp;About me</h3>
+📍 Based in **Fortaleza, Brazil**, but passionate for **United Kingdom and EU** 🇬🇧.
 
-- 🤔 &nbsp; I have no special talent. I am only passionately curious.
-- 💼 &nbsp; I am an Ionic Developer working for the Robbyson Platform and a University Professor at Fortaleza University. My professional experience includes working on diverse and impactful projects with notable organizations such as FIOCRUZ, VALE, Suzano, Braskem, MRS, Norte Energia, Arauco, TGS, GNL Quintero, Pan American Energy, Ceará Motor, Audi Center Fortaleza, and Fazauto.
-- Currently learning React JS.
+---
 
-<!-- <h3> :rocket: &nbsp;Skills </h3>
+## 🔧 Tech Skills
+🔹 **SAP Technologies:** SAP UI5, SAP MDK, SAP CAP, SAP BTP, SAP HANA DB  
+🔹 **Frontend:** React, Angular, SAP UI5  
+🔹 **Backend:** Node.js, SAP CAP, Express.js  
+🔹 **Mobile:** React Native, SAP MDK, Ionic  
+🔹 **Databases:** PostgreSQL, MySQL, SAP HANA DB  
+🔹 **DevOps & Tools:** Docker, Git, Jira, CI/CD, GitHub Actions  
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vuejs)
-  ![SAP MDK](https://img.shields.io/badge/-SAPMDK-333333?style=flat&logo=SAP-MDK)
+---
 
-**Utilities**
-
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-
-**Development tools**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-  ![Business Application Studio](https://img.shields.io/badge/-Business%20Application%20Studio-333333?style=flat&logo=business-application-studio)
-
-<br/> -->
-
-<h3> :earth_americas: &nbsp;Find me: </h3> 
-
-
-[![Gmail Badge](https://img.shields.io/badge/-miqueiasmaia7@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miqueiasmaia7@gmail.com)](mailto:miqueiasmaia7@gmail.com)
-[![GitHub Miqueias Maia]( https://img.shields.io/github/followers/MiqueiasMaia?label=follow&style=social)](https://github.com/MiqueiasMaia/MiqueiasMaia)
+## 📫 Connect With Me
+🔗 [LinkedIn](https://www.linkedin.com/in/miqueias-maia/)  
+🐙 [GitHub](https://github.com/miqueiasmaia)  
+📧 **Email:** miqueiasmaia7@gmail.com  
