@@ -5,5 +5,7 @@ Hi, I'm Miqueias 👋
 PhD Candidate researching AI and virtual reality for neurorehabilitation.
 
 🔎 Interests: Machine Learning, Bioinformatics, Neuroscience, Digital Health, Industrial fields
+
 🎓 Oswaldo Cruz Foundation / University of Fortaleza
+
 💻 Professor · Developer · Researcher
